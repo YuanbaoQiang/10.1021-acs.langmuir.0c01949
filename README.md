@@ -7,15 +7,19 @@ Progressive Molecular Rearrangement and Heat Generation of Amorphous Polyethene 
 
 ## round1:file_folder:
 
-Cover Letter:email:
+[投稿历程（7.3-8.3）（Langmuir一审结束）](https://blog.csdn.net/qyb19970829/article/details/107805671)
 
-Response Letter:email:
+[Cover Letter:email:](https://github.com/YuanbaoQiang/10.1021-acs.langmuir.0c01949/tree/master/response/round1)
+
+[Response Letter:email:](https://github.com/YuanbaoQiang/10.1021-acs.langmuir.0c01949/tree/master/response/round1)
 
 ## round2:file_folder:
 
-Cover Letter:email:
+[投稿历程（8.3-8.31）（Langmuir二审结束）](https://blog.csdn.net/qyb19970829/article/details/108424348)
 
-Response Letter:email:
+[Cover Letter:email:](https://github.com/YuanbaoQiang/10.1021-acs.langmuir.0c01949/tree/master/response/round2)
+
+[Response Letter:email:](https://github.com/YuanbaoQiang/10.1021-acs.langmuir.0c01949/tree/master/response/round2)
 
 # 脚本
 
